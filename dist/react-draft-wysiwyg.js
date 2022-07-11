@@ -2272,6 +2272,7 @@ var WysiwygEditor = /*#__PURE__*/function (_Component) {
           wrapperStyle = _this$props5.wrapperStyle,
           uploadCallback = _this$props5.uploadCallback,
           ariaLabel = _this$props5.ariaLabel;
+      console.log(toolbar);
       var controlProps = {
         modalHandler: this.modalHandler,
         editorState: editorState,
