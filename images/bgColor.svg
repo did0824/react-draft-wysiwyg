@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="그룹_7598" data-name="그룹 7598" transform="translate(3447 -12897)">
+    <rect id="사각형_5640" data-name="사각형 5640" width="24" height="24" transform="translate(-3447 12897)" fill="#fff"/>
+    <rect id="사각형_5641" data-name="사각형 5641" width="14" height="14" transform="translate(-3442 12902)" fill="#fff"/>
+    <g id="그룹_7503" data-name="그룹 7503" transform="translate(-3445.98 12863.62)">
+      <path id="패스_7195" data-name="패스 7195" d="M17.98,52.03v.35h-.35Z" fill="#ccc"/>
+      <path id="패스_7196" data-name="패스 7196" d="M17.98,49.23v.71l-2.44,2.44h-.71Z" fill="#ccc"/>
+      <path id="패스_7197" data-name="패스 7197" d="M17.98,46.42v.72l-5.24,5.24h-.71Z" fill="#ccc"/>
+      <path id="패스_7198" data-name="패스 7198" d="M17.98,43.63v.71L9.94,52.38H9.23Z" fill="#ccc"/>
+      <path id="패스_7199" data-name="패스 7199" d="M17.98,40.83v.71L7.14,52.38H6.43Z" fill="#ccc"/>
+      <path id="패스_7200" data-name="패스 7200" d="M17.98,38.38v.36L4.33,52.38H3.98v-.35L17.63,38.38Z" fill="#ccc"/>
+      <path id="패스_7201" data-name="패스 7201" d="M15.54,38.38,3.98,49.94v-.71L14.83,38.38Z" fill="#ccc"/>
+      <path id="패스_7202" data-name="패스 7202" d="M12.74,38.38,3.98,47.14v-.71l8.04-8.05Z" fill="#ccc"/>
+      <path id="패스_7203" data-name="패스 7203" d="M9.94,38.38,3.98,44.34v-.71l5.25-5.25Z" fill="#ccc"/>
+      <path id="패스_7204" data-name="패스 7204" d="M7.14,38.38,3.98,41.54v-.71l2.45-2.45Z" fill="#ccc"/>
+      <path id="패스_7205" data-name="패스 7205" d="M4.34,38.38l-.36.35v-.35Z" fill="#ccc"/>
+    </g>
+    <text id="A" transform="translate(-3439 12913)" fill="#252525" font-size="12" font-family="NotoSans-Regular, Noto Sans"><tspan x="0" y="0">A</tspan></text>
+  </g>
+</svg>

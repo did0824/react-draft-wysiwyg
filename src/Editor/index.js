@@ -424,7 +424,7 @@ class WysiwygEditor extends Component {
       uploadCallback,
       ariaLabel,
     } = this.props;
-    console.log(toolbar)
+
     const controlProps = {
       modalHandler: this.modalHandler,
       editorState,
@@ -458,14 +458,8 @@ class WysiwygEditor extends Component {
             onFocus={this.onToolbarFocus}
           >
             {toolbar.options.map((opt, index) => {
-              console.log("opt")
-              console.log(opt)
               const Control = Controls[opt];
-              console.log("Control")
-              console.log(Control)
               const config = toolbar[opt];
-              console.log("config")
-              console.log(config)
               if (opt === 'image' && uploadCallback) {
                 config.uploadCallback = uploadCallback;
               }

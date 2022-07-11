@@ -13,6 +13,7 @@ import remove from "./Remove";
 import history from "./History";
 
 import textColorPicker from "./TextColorPicker";
+import bgColorPicker from "./BgColorPicker";
 
 export default {
   inline,
@@ -28,5 +29,6 @@ export default {
   image,
   remove,
   history,
-  textColorPicker
+  textColorPicker,
+  bgColorPicker
 };
