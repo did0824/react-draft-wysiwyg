@@ -131,7 +131,7 @@ class LayoutComponent extends Component {
           name="linkTarget"
           value={linkTarget}
         />
-        <label
+        {/* <label
           className="rdw-link-modal-target-option"
           htmlFor="openLinkInNewWindow"
         >
@@ -145,7 +145,7 @@ class LayoutComponent extends Component {
           <span>
             {translations['components.controls.link.linkTargetOption']}
           </span>
-        </label>
+        </label> */}
         <span className="rdw-link-modal-buttonsection">
           <button
             className="rdw-link-modal-btn"

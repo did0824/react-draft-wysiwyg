@@ -7862,16 +7862,7 @@ var LayoutComponent = /*#__PURE__*/function (_Component) {
         onBlur: this.updateValue,
         name: "linkTarget",
         value: linkTarget
-      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("label", {
-        className: "rdw-link-modal-target-option",
-        htmlFor: "openLinkInNewWindow"
-      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
-        id: "openLinkInNewWindow",
-        type: "checkbox",
-        defaultChecked: linkTargetOption === '_blank',
-        value: "_blank",
-        onChange: this.updateTargetOption
-      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, translations['components.controls.link.linkTargetOption'])), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
         className: "rdw-link-modal-buttonsection"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
         className: "rdw-link-modal-btn",
