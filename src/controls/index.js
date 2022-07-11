@@ -12,6 +12,8 @@ import image from "./Image";
 import remove from "./Remove";
 import history from "./History";
 
+import textColorpicker from "./TextColorPicker";
+
 export default {
   inline,
   blockType,
@@ -25,5 +27,6 @@ export default {
   emoji,
   image,
   remove,
-  history
+  history,
+  textColorpicker
 };
