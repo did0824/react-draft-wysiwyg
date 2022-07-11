@@ -19,7 +19,6 @@ class TextColorPicker extends Component {
   state = {
     expanded: false,
     currentColor: undefined,
-    currentBgColor: undefined,
   };
 
   constructor(props) {
@@ -28,7 +27,6 @@ class TextColorPicker extends Component {
     const state = {
       expanded: false,
       currentColor: undefined,
-      currentBgColor: undefined,
     };
     if (editorState) {
       state.currentColor = getSelectionCustomInlineStyle(editorState, [

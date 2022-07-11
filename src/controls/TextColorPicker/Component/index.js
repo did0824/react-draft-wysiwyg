@@ -31,7 +31,8 @@ class LayoutComponent extends Component {
 
   onChange = color => {
     const { onChange } = this.props;
-    onChange("color", color);
+    const { currentStyle } = this.state;
+    onChange(currentStyle, color);
   };
 
   renderModal = () => {
@@ -80,7 +81,7 @@ class LayoutComponent extends Component {
         aria-expanded={expanded}
         aria-label="rdw-color-picker"
         title={
-          title || translations['components.controls.colorpicker.textColorpicker']
+          title || translations['components.controls.colorpicker.colorpicker']
         }
       >
         <Option onClick={onExpandEvent} className={classNames(className)}>
